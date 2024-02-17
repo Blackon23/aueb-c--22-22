@@ -1,0 +1,17 @@
+﻿  Movies.cpp
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.h(17,218): warning C4566: character represented by universal-character-name '\u00F6' cannot be represented in the current code page (1253)
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.cpp(163,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.cpp(280,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.cpp(285,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.cpp(290,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.cpp(318,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.cpp(319,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  event.cpp
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.h(17,218): warning C4566: character represented by universal-character-name '\u00F6' cannot be represented in the current code page (1253)
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\event.cpp(58,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.h(17,218): warning C4566: character represented by universal-character-name '\u00F6' cannot be represented in the current code page (1253)
+  movieobject.cpp
+C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\Movies.h(17,218): warning C4566: character represented by universal-character-name '\u00F6' cannot be represented in the current code page (1253)
+  Generating Code...
+  Project1.vcxproj -> C:\Users\konag\OneDrive\Υπολογιστής\σχολη\c++\2022-2023\Project1\bin\Project1d.exe
